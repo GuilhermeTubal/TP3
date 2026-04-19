@@ -1,4 +1,4 @@
-**OnPlan – Gestão Inteligente de Estudos**
+**OnPlan**
 
 **Descrição**
 
