@@ -37,7 +37,7 @@ Centralizar tarefas académicas e usar lógica inteligente para definir priorida
 
 1. Adicionar disciplinas e tarefas
 2. Consultar o calendário
-3. Estudar com o timer
+3. Estudar com um timer
 
 ---
 
