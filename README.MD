@@ -24,6 +24,7 @@ Centralizar tarefas académicas e usar lógica inteligente para definir priorida
 * **Calendário** – gestão de trabalhos e exames
 * **Prioridades automáticas** – baseadas em prazos e dificuldade
 * **Timer Pomodoro** – sessões de foco
+
 ---
 
 **Tecnologias**
