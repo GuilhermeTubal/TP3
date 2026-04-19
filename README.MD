@@ -21,15 +21,15 @@ Centralizar tarefas académicas e usar lógica inteligente para definir priorida
 
 **Funcionalidades**
 
-* 📅 **Calendário** – gestão de trabalhos e exames
-* 🧠 **Prioridades automáticas** – baseadas em prazos e dificuldade
-* ⏳ **Timer Pomodoro** – sessões de foco
-
+* **Calendário** – gestão de trabalhos e exames
+* **Prioridades automáticas** – baseadas em prazos e dificuldade
+* **Timer Pomodoro** – sessões de foco
 ---
 
-**Extra (Python)**
-
-* Sugestão automática de horários de estudo com base nos prazos
+**Tecnologias**
+* Flutter + Dart
+* Python (opcional)
+* SQLite ou Firebase
 
 ---
 
