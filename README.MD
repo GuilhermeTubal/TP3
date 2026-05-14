@@ -1,52 +1,100 @@
-**OnPlan**
+# 📚 OnPlan
 
-**Descrição**
+## 📌 Descrição do Projeto
 
-O **OnPlan** é uma aplicação móvel desenvolvida em Flutter (Dart), com integração opcional em Python, criada para ajudar estudantes a gerir de forma eficiente o seu tempo e responsabilidades académicas.
+O **OnPlan** é uma aplicação móvel desenvolvida em **Flutter (Dart)** com o objetivo de ajudar estudantes a organizar melhor a sua vida académica, gerir prazos e aumentar a produtividade durante o estudo.
 
-A aplicação funciona como uma plataforma centralizada onde o utilizador pode organizar trabalhos, testes e exames, acompanhar prazos e planear sessões de estudo.O OnPlan distingue-se pela utilização de lógica inteligente que analisa prazos, carga de trabalho e prioridades, ajudando o estudante a tomar melhores decisões sobre quando e como estudar.
+A aplicação funciona como uma plataforma centralizada onde o utilizador pode criar tarefas, definir prioridades, acompanhar datas importantes e realizar sessões de foco através de um sistema Pomodoro inteligente.
 
-Com funcionalidades como calendário interativo, sistema de prioridades e timer de foco, o OnPlan pretende não só melhorar a organização, mas também combater a procrastinação e promover hábitos de estudo mais consistentes.
-
-O objetivo é oferecer uma experiência simples, intuitiva e eficaz, funcionando como uma ferramenta digital essencial no dia a dia académico, semelhante a uma solução real de mercado com potencial de evolução para uma start-up.
+O principal objetivo do OnPlan é combater a procrastinação e melhorar a organização académica através de ferramentas simples, intuitivas e automatizadas.
 
 ---
 
-**Problema**
+## 🎯 Público-Alvo
 
-* Dificuldade em gerir trabalhos e exames
-* Falta de organização no estudo
+O OnPlan foi desenvolvido especialmente para:
 
----
-
-**Solução**
-
-Centralizar tarefas académicas e usar lógica inteligente para definir prioridades e otimizar o estudo.
+- Estudantes do ensino secundário
+- Estudantes universitários
+- Utilizadores que pretendem melhorar a organização e gestão do tempo
 
 ---
 
-**Funcionalidades**
+## 🚀 Funcionalidades Principais
 
-* **Calendário** – gestão de trabalhos e exames
-* **Prioridades automáticas** – baseadas em prazos e dificuldade
-* **Timer Pomodoro** – sessões de foco
-* **Modo Foco** - bloqueio de distrações durante o estudo
-
----
-
-**Tecnologias**
-* Flutter + Dart
-* Python (opcional)
-* SQLite ou Firebase
+### 📅 Calendário Interativo
+- Visualização de tarefas por data
+- Dias destacados por prioridade:
+  - 🟢 Baixa
+  - 🟠 Média
+  - 🔴 Alta
+- Consulta rápida de tarefas ao selecionar um dia
 
 ---
 
-**Utilização**
-
-1. Adicionar disciplinas e tarefas
-2. Consultar o calendário
-3. Iniciar sessões de estudos com timer
+### ✅ Gestão de Tarefas
+- Criação de tarefas académicas
+- Definição manual de prioridade
+- Seleção de data limite
+- Remoção de tarefas
+- Armazenamento local com SQLite
 
 ---
+
+### ⏳ Sistema Pomodoro Inteligente
+- Timer de foco personalizável
+- Pausar, continuar e reiniciar sessões
+- Sugestão automática de tempo de estudo baseada:
+  - na prioridade da tarefa
+  - no número de dias restantes
+
+---
+
+### 🔔 Notificações Inteligentes
+- Lembretes automáticos para tarefas
+- Notificações locais no dispositivo
+- Avisos antes da data limite definida
+
+---
+
+## 💡 Elementos Inovadores
+
+O OnPlan diferencia-se por combinar:
+- Organização académica
+- Planeamento inteligente
+- Gestão automática de tempo
+- Sistema de produtividade integrado
+
+A funcionalidade de recomendação automática de tempo de estudo torna a aplicação mais dinâmica e adaptada às necessidades do utilizador.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Utilização |
+|---|---|
+| Flutter | Desenvolvimento da interface |
+| Dart | Programação da aplicação |
+| SQLite | Armazenamento local |
+| table_calendar | Calendário interativo |
+| flutter_local_notifications | Sistema de notificações |
+| Python (Opcional) | Possível integração futura com IA |
+
+---
+
+## 📱 Demonstração Visual
+
+### Ecrãs Principais
+- Página de calendário
+- Gestão de tarefas
+- Sistema Pomodoro
+- Notificações locais
+
+### Funcionalidades Demonstradas
+- Criação de tarefas
+- Organização por prioridades
+- Sessões de foco
+- Recomendações automáticas de estudo
+
 
 
